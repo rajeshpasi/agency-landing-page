@@ -3,7 +3,7 @@ import Layout from './components/layout'
 
 const App = () => {
   return (
-    <div className='bg-gray-200 min-h-screen overflow-auto'>
+    <div className='bg-black min-h-screen overflow-auto'>
       <Layout/>
     </div>
   )
